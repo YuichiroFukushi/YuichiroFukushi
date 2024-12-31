@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuichirofukushi)
 
 ## 💻 Tech Stack
-![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat-square)(https://console.cloud.google.com/bigquery)
-![RStudio IDE Badge](https://img.shields.io/badge/RStudio%20IDE-75AADB?logo=rstudioide&logoColor=fff&style=flat-square)(https://posit.co/products/open-source/rstudio/)
-![Tableau](https://a11ybadges.com/badge?logo=tableau)(https://www.tableau.com/)
+!https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+![RStudio IDE Badge](https://img.shields.io/badge/RStudio%20IDE-75AADB?logo=rstudioide&logoColor=fff&style=flat-square)
+![Tableau](https://a11ybadges.com/badge?logo=tableau)
 
