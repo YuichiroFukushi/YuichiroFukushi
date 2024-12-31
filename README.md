@@ -18,4 +18,5 @@
 ## 💻 Languages
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GoogleSQL](https://img.shields.io/badge/GoogleSQL-Grey?style=for-the-badge)
+![Google SQL](https://img.shields.io/badge/Google%20SQL-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
