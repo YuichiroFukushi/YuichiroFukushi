@@ -1,6 +1,6 @@
-## Hi there img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving hand">
 
-Here are some ideas to get you started:
+## About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
