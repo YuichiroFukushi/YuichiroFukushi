@@ -6,7 +6,7 @@
 - ⚡ **Fun Fact:** Did you know? In psychology, the **Dunbar's Number** suggests that humans can maintain stable social relationships with about 150 people. Interestingly, data analysis of social networks like Facebook often supports this limit, showing that even with thousands of connections, meaningful interactions usually occur within a close-knit circle.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuichirofukushi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat=linkedin&logoColor=white)](https://linkedin.com/in/yuichirofukushi)
 
 ## 💻 Digital Tools
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
