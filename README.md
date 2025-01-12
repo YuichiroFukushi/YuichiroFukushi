@@ -16,7 +16,7 @@
 
 ## 💻 Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-32CD32?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
