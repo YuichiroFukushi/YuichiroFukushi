@@ -25,6 +25,9 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-32CD32?style=flat&logo=sqlite&logoColor=white)
 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-32CD32?style=plastic&logo=sqlite&logoColor=white)
 
 
 
