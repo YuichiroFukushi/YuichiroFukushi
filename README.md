@@ -10,6 +10,7 @@
 
 ## 💻 Digital Tools
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![RStudio IDE Badge](https://img.shields.io/badge/RStudio%20IDE-75AADB?logo=rstudioide&logoColor=fff&style=flat)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
