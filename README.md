@@ -17,10 +17,14 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat)
 
-## 💻 Languages
+## 💬 Languages
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-32CD32?style=flat&logo=sqlite&logoColor=white)
+
+## 📰 Publications
+
+Austria, K.V.E., **Fukushi, Y.C.**, Langomes, K.A.A. et al. Perceived Parental Perfectionism as a Predictor of the Impostor Phenomenon Among Filipino Honor Students. **Psychol Stud 69, 262–273 (2024)**. [[DOI]](https://doi.org/10.1007/s12646-024-00793-3)
 
 
 
