@@ -22,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-32CD32?style=flat&logo=sqlite&logoColor=white)
 
-## 📰 Publications
+## 📰 Publication(s)
 
 Austria, K.V.E., **Fukushi, Y.C.**, Langomes, K.A.A. et al. Perceived Parental Perfectionism as a Predictor of the Impostor Phenomenon Among Filipino Honor Students. **Psychol Stud 69, 262–273 (2024)**. [[DOI]](https://doi.org/10.1007/s12646-024-00793-3)
 
