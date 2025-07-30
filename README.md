@@ -9,18 +9,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat=linkedin&logoColor=white)](https://linkedin.com/in/yuichirofukushi)
 
 ## 💻 Digital Tools
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)
-![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![RStudio IDE Badge](https://img.shields.io/badge/RStudio%20IDE-75AADB?logo=rstudioide&logoColor=fff&style=flat)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic)
+![DBeaver Badge](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff&style=plastic)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)
+![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=plastic)
+
 
 ## 💬 Languages
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-32CD32?style=flat&logo=sqlite&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
+![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
 
 ## 📰 Publication(s)
 
